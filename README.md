@@ -1,5 +1,3 @@
-# Développeuse & Graphiste
-
 Bonjour! je suis Ramswed 𐔌՞. .՞𐦯
 
 Développeuse full-stack **en formation** et passionnée par le design et la création de projets interactifs.
@@ -36,15 +34,15 @@ Développeuse full-stack **en formation** et passionnée par le design et la cr�
 
 ## ִֶָ𓂃 ࣪˖ Projets en vedette 🐇་༘࿐
 
-### [Jeu Vidéo à Choix ☁︎](lien-vers-le-projet)
+### Jeu Vidéo à Choix ☁︎
 
 **🔄 En cours de création** - Jeu narratif basé sur les dialogues avec des choix multiples.
 
-### [Muse Bar 𐃯](lien-vers-le-projet)
+### Muse Bar 𐃯
 
 **🔄 En cours de création** - Site vitrine pour un bar rouennais - Design moderne et responsive pour présenter l'ambiance et les services du bar.
 
-### [Cap'taine Flint 𓅆](lien-vers-le-projet)
+### Cap'taine Flint 𓅆
 
 **🔄 En cours de création** - Robot oiseau autonome - Projet combinant robotique, programmation Arduino et design mécanique pour créer un oiseau robotisé.
 
