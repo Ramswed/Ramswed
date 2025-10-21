@@ -1,4 +1,4 @@
-# Bonjour! je suis Ramswed 𐔌՞. .՞𐦯
+# Bonjour! je suis Ramswed
 
 Développeuse full-stack **en formation** et passionnée par le design et la création de projets interactifs.
 
@@ -32,7 +32,7 @@ Développeuse full-stack **en formation** et passionnée par le design et la cr�
 
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramswed&layout=compact&theme=rose_pine&bg_color=fff1f2&text_color=be185d&title_color=be185d)
 
-## ִֶָ𓂃 ࣪˖ Projets en vedette 🐇་༘࿐
+## ִֶָ𓂃 ࣪˖ Projets en vedette ་༘࿐
 
 ```à venir```
 
