@@ -1,4 +1,4 @@
-# Bonjour! je suis Manon
+# Bonjour! je suis Ramswed 𐔌՞. .՞𐦯
 
 Développeuse full-stack **en formation** et passionnée par le design et la création de projets interactifs.
 
@@ -46,8 +46,8 @@ Extension qui calcule la somme des heures de la semaine !
 
 ## ⊹ ࣪ ˖ Ce que j'apprends actuellement ⸝⸝.ᐟ⋆
 
-- **Arduino & Robotique** - Programmation de microcontrôleurs et création d'un robot perroquet.
-- **React** - Développement d'interfaces utilisateur modernes et réactives.
+- **Arduino & Robotique** - Programmation de microcontrôleurs et création d'un robot.
+- **React** - Développement d'interfaces utilisateur modernes et réactives
 - **Go** - Dans le cadre de ma formation scolaire.
 - **Développement mobile** - Création d'une application qui... ah non c'est secret pour l'instant.
 
@@ -68,5 +68,5 @@ Extension qui calcule la somme des heures de la semaine !
 ⠀⠀⢱⡀⠀⠉⠉⠀⠀⠀⠀⠛⠃⠀⢠⡟⠀⠀⠀⢀⣀⣠⣤⠿⠞⠛⠋
 ⣠⠾⠋⠙⣶⣤⣤⣤⣤⣤⣀⣠⣤⣾⣿⠴⠶⠚⠋⠉⠁⠀⠀⠀⠀⠀⠀
 ⠛⠒⠛⠉⠉⠀⠀⠀⣴⠟⢃⡴⠛⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠛⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    Merci pour la visite !⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠛⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ Merci pour la visite !⠀⠀⠀⠀
 ```
