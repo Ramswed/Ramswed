@@ -26,38 +26,36 @@ Développeuse full-stack **en formation** et passionnée par le design et la cr�
 ![Adobe InDesign](https://img.shields.io/badge/-InDesign-FFB6C1?style=for-the-badge&logo=adobeindesign&logoColor=black)
 ![Procreate](https://img.shields.io/badge/-Procreate-FFC0CB?style=for-the-badge&logo=procreate&logoColor=black)
 
-## ˚⋆ ༘ Statistiques GitHub ೀ⋆｡˚
+## ִֶָ𓂃 ࣪˖ Projets en vedette ་༘࿐
 
-![Statistiques GitHub de Ramswed](https://github-readme-stats.vercel.app/api?username=ramswed&show_icons=true&theme=rose_pine&bg_color=fff1f2&text_color=be185d&icon_color=ec4899&title_color=be185d)
+### [Muse Bar 𐃯](https://github.com/Ramswed/MuseBar)
 
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramswed&layout=compact&theme=rose_pine&bg_color=fff1f2&text_color=be185d&title_color=be185d)
+Site vitrine pour un bar rouennais - Design moderne et responsive pour présenter l'ambiance et les services du bar.
 
-## ִֶָ𓂃 ࣪˖ Projets en vedette 🐇་༘࿐
+### [Widget pour Zone01 𖦹](https://github.com/Ramswed/chrono01)
 
-### Jeu Vidéo à Choix ☁︎
+Extension qui calcule la somme des heures de la semaine !
 
-**🔄 En cours de création** - Jeu narratif basé sur les dialogues avec des choix multiples.
+### Photobooth Quotidien ☁︎
 
-### Muse Bar 𐃯
-
-**🔄 En cours de création** - Site vitrine pour un bar rouennais - Design moderne et responsive pour présenter l'ambiance et les services du bar.
+**En cours de création** - Site illustré pour capturer une photo par jour !
 
 ### Cap'taine Flint 𓅆
 
-**🔄 En cours de création** - Robot oiseau autonome - Projet combinant robotique, programmation Arduino et design mécanique pour créer un oiseau robotisé.
+**En cours de création** - Robot oiseau autonome - Projet combinant robotique, programmation Arduino et design mécanique pour créer un oiseau dérengeant.
 
 ## ⊹ ࣪ ˖ Ce que j'apprends actuellement ⸝⸝.ᐟ⋆
 
 - **Arduino & Robotique** - Programmation de microcontrôleurs et création d'un robot.
 - **React** - Développement d'interfaces utilisateur modernes et réactives
 - **Go** - Dans le cadre de ma formation scolaire.
-- **Développement de jeux** - Création d'un jeu vidéo à choix
+- **Développement mobile** - Création d'une application qui... ah non c'est secret pour l'instant.
 
 ## . ݁₊ ⊹ Comment me contacter??? . ݁˖ .
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF1493?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/im-ramswed-6785a8259/)
 [![Email](https://img.shields.io/badge/-Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramswed.pro@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FFB6C1?style=for-the-badge&logo=About.me&logoColor=black)](votre-site-web)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FFB6C1?style=for-the-badge&logo=About.me&logoColor=black)](https://ramswed.com/)
 
 ---
 
