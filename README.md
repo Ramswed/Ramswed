@@ -16,7 +16,7 @@ Développeuse full-stack **en formation** et passionnée par le design et la cr�
 ![React](https://img.shields.io/badge/-React-FF1493?style=for-the-badge&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-FF69B4?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-FFB6C1?style=for-the-badge&logo=git&logoColor=black)
-![VS Code](https://img.shields.io/badge/-VS%20Code-FFC0CB?style=for-the-badge&logo=visualstudiocode&logoColor=black)
+![Flutter](https://img.shields.io/badge/-Flutter-FFC0CB?style=for-the-badge&logo=flutter&logoColor=black)
 ![Cursor](https://img.shields.io/badge/-Cursor-FFE4E1?style=for-the-badge&logo=cursor&logoColor=black)
 
 ### Compétences en design
