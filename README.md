@@ -49,7 +49,7 @@ Extension qui calcule la somme des heures de la semaine !
 - **Arduino & Robotique** - Programmation de microcontrôleurs et création d'un robot.
 - **React** - Développement d'interfaces utilisateur modernes et réactives
 - **Go** - Dans le cadre de ma formation scolaire.
-- **Développement mobile** - Création d'une application qui... ah non c'est secret pour l'instant.
+- **Flutter** - Création d'une application qui... ah non c'est secret pour l'instant.
 
 ## . ݁₊ ⊹ Comment me contacter??? . ݁˖ .
 
