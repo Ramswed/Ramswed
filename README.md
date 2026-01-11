@@ -36,9 +36,9 @@ Site vitrine pour un bar rouennais - Design moderne et responsive pour présente
 
 Extension qui calcule la somme des heures de la semaine !
 
-### Photobooth Quotidien ☁︎
+### [PhotoKabine ☁︎](https://github.com/Ramswed/photoKabine)
 
-**En cours de création** - Site illustré pour capturer une photo par jour !
+Application mobile pour capturer des photos de façon immersive dans une cabine photo !
 
 ### Cap'taine Flint 𓅆
 
