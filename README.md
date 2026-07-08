@@ -1,4 +1,4 @@
-# Bonjour! je suis Ramswed 𐔌՞. .՞𐦯
+# Bonjour! 𐔌՞. .՞𐦯
 
 Développeuse full-stack **en formation** et passionnée par le design et la création de projets interactifs.
 
@@ -42,7 +42,7 @@ Application mobile pour capturer des photos de façon immersive dans une cabine 
 
 ### Cap'taine Flint 𓅆
 
-**En cours de création** - Robot oiseau autonome - Projet combinant robotique, programmation Arduino et design mécanique pour créer un oiseau dérengeant.
+**En cours de création** - Robot oiseau autonome - Projet combinant robotique, programmation Arduino et design mécanique pour créer un oiseau déreangeant.
 
 ## ⊹ ࣪ ˖ Ce que j'apprends actuellement ⸝⸝.ᐟ⋆
 
